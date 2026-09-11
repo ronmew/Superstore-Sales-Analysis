@@ -73,7 +73,6 @@ The project includes:
 ## Project Files
 
 - `Superstore_Sales_Analysis.ipynb` — Complete analysis notebook
-- `Superstore_Cleaned.csv` — Cleaned dataset
 - `requirements.txt` — Required Python libraries
 
 ## Dataset
